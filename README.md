@@ -1,5 +1,3 @@
-![me](https://github.com/L1cardo/L1cardo/raw/master/assets/me.gif)
-
 ## Hey 👋, I'm Ilenia Ttito 
 
 Hi there, I'm **Ilenia Ttito**, a **economics student**.
