@@ -4,7 +4,7 @@
 
 Hi there, I'm **Ilenia Ttito**, a **economics student**.
 
-I am **[Peru](https://es.wikipedia.org/wiki/Per%C3%BA)**. Now I am studying economics at **[PUCP](https://es.wikipedia.org/wiki/Pontificia_Universidad_Cat%C3%B3lica_del_Per%C3%BA)**.
+I am from **[Peru](https://es.wikipedia.org/wiki/Per%C3%BA)**. Now I am studying economics at **[PUCP](https://es.wikipedia.org/wiki/Pontificia_Universidad_Cat%C3%B3lica_del_Per%C3%BA)**.
 
 I love programming and I love Swift.
 
