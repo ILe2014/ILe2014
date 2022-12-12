@@ -34,4 +34,3 @@ I love programming and I love Swift.
 
 ![Ilenia's github stats](https://github-readme-stats.vercel.app/api?username=ILe2014&show_icons=true)
 
-⭐️ From [L1cardo](https://github.com/L1cardo)
